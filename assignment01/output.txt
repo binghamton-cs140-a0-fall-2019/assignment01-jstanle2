@@ -1,0 +1,144 @@
+
+TESTS FOR Computer.java:
+microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 
+apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 
+microsoft, intel, 4GB Memory, 500GB Hard Drive, Price: $300.00 
+apple, amd, 4GB Memory, 500GB Solid State Drive, Price: $450.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+Date and place of birth: 1970-09-30, Levittown, New York, USA
+Date and place of birth: 1999-07-31, Levittown, Pennsylvania, USA
+Date and place of birth: 2000-09-30, London, England
+Date and place of birth: 2010-01-01, Rome, Italy
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+Date and place of birth: 1970-09-30, Levittown, New York, USA
+Date and place of birth: 1999-07-31, Levittown, Pennsylvania, USA
+Date and place of birth: 2000-09-30, London, England
+Date and place of birth: 2010-01-01, Rome, Italy
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+Date and place of birth: 1970-09-30, Levittown, New York, USA
+Date and place of birth: 1999-07-31, Levittown, Pennsylvania, USA
+Date and place of birth: 2000-09-30, London, England
+Date and place of birth: 2010-01-01, Rome, Italy
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+Date and place of birth: 1970-09-30, Levittown, New York, USA
+Date and place of birth: 1999-07-31, Levittown, Pennsylvania, USA
+Date and place of birth: 2000-09-30, London, England
+Date and place of birth: 2010-01-01, Rome, Italy
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+Date and place of birth: 1970-09-30, Levittown, New York, USA
+Date and place of birth: 1999-07-31, Levittown, Pennsylvania, USA
+Date and place of birth: 2000-09-30, London, England
+Date and place of birth: 2010-01-01, Rome, Italy
+
+TESTS FOR Person.java:
+Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+Computers: [microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 , apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 , microsoft, intel, 4GB Memory, 500GB Hard Drive, Price: $300.00 , apple, amd, 4GB Memory, 500GB Solid State Drive, Price: $450.00 ]
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+Computers: [microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 , apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 , microsoft, intel, 4GB Memory, 500GB Hard Drive, Price: $300.00 , apple, amd, 4GB Memory, 500GB Solid State Drive, Price: $450.00 ]
+Computer List, Owner: Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+Computers: [microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 , apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 ]
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+Computers: [microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 , apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 , microsoft, intel, 4GB Memory, 500GB Hard Drive, Price: $300.00 , apple, amd, 4GB Memory, 500GB Solid State Drive, Price: $450.00 ]
+Computer List, Owner: Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+Computers: [microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 , apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 ]
+
+TESTS FOR Computer.java:
+microsoft, intel, 8GB Memory, 2.0TB Solid State Drive, Price: $599.00 
+apple, amd, 8GB Memory, 2.0TB Hard Drive, Price: $700.00 
+microsoft, intel, 4GB Memory, 500GB Hard Drive, Price: $300.00 
+apple, amd, 4GB Memory, 500GB Solid State Drive, Price: $450.00 
+
+TESTS FOR Person.java:
+Jack Stanley (111223333),
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+8 Rolling Lane
+Levittown, New York 11756
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-09-30, Boca Raton, Florida, USA
+Date and place of birth: 1970-09-30, Levittown, New York, USA
+Date and place of birth: 1999-07-31, Levittown, Pennsylvania, USA
+Date and place of birth: 2000-09-30, London, England
+Date and place of birth: 2010-01-01, Rome, Italy
+false
+false
+false
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+true
+false
+true
+false
+false
+true
+false
+false
+false
+false
+
+TESTS FOR StreetUSAddress.java:
+8 Rolling Lane
+Levittown, New York 11756
+62 Null Lane
+9 Nine Road
+Boca Raton, Florida 11765
